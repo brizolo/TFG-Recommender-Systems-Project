@@ -1,4 +1,4 @@
-# Handmade Products Recommendation Project
+# Handmade Products Recommendation Project Sira Bages, Brigitta Zolotovitskaia
 
 This repository contains data preprocessing, sparsity simulation, and recommendation model experiments using MovieLens and handmade product ratings.
 
